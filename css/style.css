@@ -1,0 +1,28 @@
+.maximo{
+    max-width: 370px;
+    max-height:2910px;
+    
+}
+.container-fluid{
+background-color: #28A745 ;
+}
+.card-title{
+    color:#212529;
+}
+.card-body{
+    color:#707070 ;
+}
+.col.pt-2{
+color: #707070;
+}
+.colorTexto{
+    color: #28A745;
+}
+.card-body-form.p-4{
+    background-color: #28A745;
+}
+.btn.btn-outline-primary.ms-5.me-5{
+    background-color: #F8F9FA;
+    border-color:#DDDDDD;
+    color:#212529;
+}
